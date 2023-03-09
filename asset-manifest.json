@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jsscclr.github.io/csb-pkv3le/static/css/main.07b98e78.chunk.css",
+    "main.js": "https://jsscclr.github.io/csb-pkv3le/static/js/main.d02a1e61.chunk.js",
+    "main.js.map": "https://jsscclr.github.io/csb-pkv3le/static/js/main.d02a1e61.chunk.js.map",
+    "runtime-main.js": "https://jsscclr.github.io/csb-pkv3le/static/js/runtime-main.fad3d260.js",
+    "runtime-main.js.map": "https://jsscclr.github.io/csb-pkv3le/static/js/runtime-main.fad3d260.js.map",
+    "static/js/2.74989a1c.chunk.js": "https://jsscclr.github.io/csb-pkv3le/static/js/2.74989a1c.chunk.js",
+    "static/js/2.74989a1c.chunk.js.map": "https://jsscclr.github.io/csb-pkv3le/static/js/2.74989a1c.chunk.js.map",
+    "index.html": "https://jsscclr.github.io/csb-pkv3le/index.html",
+    "static/css/main.07b98e78.chunk.css.map": "https://jsscclr.github.io/csb-pkv3le/static/css/main.07b98e78.chunk.css.map",
+    "static/js/2.74989a1c.chunk.js.LICENSE.txt": "https://jsscclr.github.io/csb-pkv3le/static/js/2.74989a1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fad3d260.js",
+    "static/js/2.74989a1c.chunk.js",
+    "static/css/main.07b98e78.chunk.css",
+    "static/js/main.d02a1e61.chunk.js"
+  ]
+}
